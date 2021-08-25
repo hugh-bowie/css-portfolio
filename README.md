@@ -16,11 +16,11 @@
 
 A Portfolio of work using just CSS & HTML
 
-#### [css-portfolio.herokuapp](https://css-portfolio-hb.herokuapp.com/#/portfolio)
+#### [live portfolio](https://hugh-bowie.github.io/portfolio/)
 
 ## 🎬 Screenshot
 
-![css-portfolio](./src/assets/images/css-portfolio.gif)
+![css-portfolio](./src/assets/images/portfolio.png)
 
 ## 🃏 User Story
 
