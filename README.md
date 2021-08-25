@@ -20,7 +20,7 @@ A Portfolio of work using just CSS & HTML
 
 ## 🎬 Screenshot
 
-![css-portfolio](./src/assets/images/portfolio.png)
+![portfolio](./assets/images/portfolio.png)
 
 ## 🃏 User Story
 
